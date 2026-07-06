@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abbyshabi/abbyshabi/main/assets/banner.png" alt="Oluwadamilola Shabi — Senior Frontend Engineer" width="100%" />
+</p>
 
-<!--
-**abbyshabi/abbyshabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Frontend Engineer
 
-Here are some ideas to get you started:
+[Probound.ai](https://probound.ai) | Remote | Jul 2025 – Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+### Software Engineer
+
+[Cisco](https://www.cisco.com) | Contract | Remote | Nov 2023 – Mar 2024
+
+***
+
+### Acting Team Lead
+
+[Indicina Technologies](https://indicina.co) | Remote | Jan 2023 – Aug 2023
+
+***
+
+### Software Developer
+
+[Indicina Technologies](https://indicina.co) | Remote | Jul 2019 – Dec 2022
